@@ -1,7 +1,3 @@
-LUA scripter
-
-95% LUA
-
-5% PY
-
 Emplic#0001
+
+https://github.com/ChillSoftworks For more scripts
