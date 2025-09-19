@@ -1,7 +1,7 @@
 ## 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img width="20" src="https://github.com/ABSphreak/ABSphreak/raw/master/gifs/Hi.gif" alt="Emoji Hello">
 
 ### 📝 About Me
-* I'm fope and I'm interested in programming / scripting!
+* I'm Emplic and I'm interested in programming / scripting!
 
 ### 🌐 Contact Information
 * ![](smalldiscord.png) **Discord** - Emplic (868879474597433344)
