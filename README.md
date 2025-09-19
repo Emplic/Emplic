@@ -10,10 +10,10 @@
 <table>
   <tr>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="https://github-readme-stats.zohan.tech/api/?username=fopecodes&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true" />
+      <img align="center" style="padding=0;" src="https://img.shields.io/badge/Lua-72%25-4F8CC9?style=for-the-badge&logo=lua&logoColor=white&labelColor=000000&color=4F8CC9" />
     </td>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fopecodes&layout=compact&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=00000000&count_private=true" />
+      <img align="center" style="padding=0;" src="https://img.shields.io/badge/HTML-28%25-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=000000&color=E34F26" />
     </td>
   </tr>
 </table>
